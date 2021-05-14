@@ -91,3 +91,13 @@ li:first-letter {
 .weather-forecast-temperatures {
   font-size: 13px;
 }
+
+.btn {
+  background-color: grey;
+  border-color: grey;
+}
+
+#city {
+  font-size: 40px;
+  color: #000;
+}
